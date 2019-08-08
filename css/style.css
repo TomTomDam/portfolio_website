@@ -65,6 +65,11 @@ section{
 }
 
 /*Portfolio*/
+#portfolio-img{
+  height: 300px;
+  width: 400px;
+}
+
 .techstack_icon{
   margin: 20px;
   height: 180px;
