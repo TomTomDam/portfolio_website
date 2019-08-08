@@ -3,5 +3,5 @@
 <p align="center"><a href="">Click here for the live preview</a></p><br>
 
 <p align="center">
-<img src="" width="550" alt="Portfolio Website">
+<img src="https://imgur.com/mhdU43C" width="550" alt="Portfolio Website">
 </p>
