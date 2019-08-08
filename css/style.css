@@ -55,7 +55,7 @@ section{
   width: 100%;
 }
 
-.masthead, .portfolio, #about, .contact {
+.masthead, .portfolio, #techstack, #contact {
   height: 100vh;
 }
 
