@@ -126,3 +126,9 @@ section{
         max-width: 20%;
     }
 }
+
+/* Contact Me Form */
+#sendMessageButton{
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
