@@ -4,4 +4,5 @@
 
 <p align="center">
 <img src="https://imgur.com/mhdU43C" width="550" alt="Portfolio Website">
+<img src="portfolio-website-screenshot.png" width="550" alt="Portfolio Website">
 </p>
